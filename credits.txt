@@ -1,0 +1,5 @@
+Credit to:
+
+https://github.com/maksimKorzh/wukongJS#readme
+
+for the entire chess implementation.
