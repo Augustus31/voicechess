@@ -12,6 +12,11 @@ Built on Wukong JS: https://github.com/maksimKorzh/wukongJS
 
 Demonstration Video: https://www.youtube.com/watch?v=l4XOzTKNFKo
 
+<br>
+<br>
+
+Play online at https://honorius.us/chess/index.html
+
 
 
 
